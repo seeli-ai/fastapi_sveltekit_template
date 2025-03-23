@@ -1,0 +1,1 @@
+# fastapi_sveltekit_template
